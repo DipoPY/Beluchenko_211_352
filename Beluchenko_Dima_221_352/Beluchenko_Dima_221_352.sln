@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Beluchenko_Dima_221_352_lab
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Beluchenko_Dima_221_352_lab2", "Beluchenko_Dima_221_352_lab2\Beluchenko_Dima_221_352_lab2.vcxproj", "{A00F8A76-CC59-4CD0-8D2F-8DFCBD39707C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Beluchenko_Dmitriy_221_352_lab3.2", "Beluchenko_Dmitriy_221_352_lab3.2\Beluchenko_Dmitriy_221_352_lab3.2.vcxproj", "{A5472DC6-6AFD-48A5-ABA0-B1723421AEDA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{A00F8A76-CC59-4CD0-8D2F-8DFCBD39707C}.Release|x64.Build.0 = Release|x64
 		{A00F8A76-CC59-4CD0-8D2F-8DFCBD39707C}.Release|x86.ActiveCfg = Release|Win32
 		{A00F8A76-CC59-4CD0-8D2F-8DFCBD39707C}.Release|x86.Build.0 = Release|Win32
+		{A5472DC6-6AFD-48A5-ABA0-B1723421AEDA}.Debug|x64.ActiveCfg = Debug|x64
+		{A5472DC6-6AFD-48A5-ABA0-B1723421AEDA}.Debug|x64.Build.0 = Debug|x64
+		{A5472DC6-6AFD-48A5-ABA0-B1723421AEDA}.Debug|x86.ActiveCfg = Debug|Win32
+		{A5472DC6-6AFD-48A5-ABA0-B1723421AEDA}.Debug|x86.Build.0 = Debug|Win32
+		{A5472DC6-6AFD-48A5-ABA0-B1723421AEDA}.Release|x64.ActiveCfg = Release|x64
+		{A5472DC6-6AFD-48A5-ABA0-B1723421AEDA}.Release|x64.Build.0 = Release|x64
+		{A5472DC6-6AFD-48A5-ABA0-B1723421AEDA}.Release|x86.ActiveCfg = Release|Win32
+		{A5472DC6-6AFD-48A5-ABA0-B1723421AEDA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

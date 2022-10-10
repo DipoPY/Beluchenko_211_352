@@ -54,7 +54,8 @@ void task3()
 	std::cout << std::endl;
 	std::cout << "Задание 3." << std::endl;
 	std::string end;
-	double total = 0, k;
+	double total = 0;
+	int k;
 	end = "";
 	k = 0;
 	while (end != "end")
